@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"./cli"
-	"./game"
+	"github.com/Mira1702-git/tic-tac-toe-arena/internal/cli"
+	"github.com/Mira1702-git/tic-tac-toe-arena/internal/game"
 )
 
 func main() {

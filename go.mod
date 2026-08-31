@@ -1,3 +1,3 @@
-module github.com/Musenova-lgtm/team-6
+module github.com/Mira1702-git/tic-tac-toe-arena
 
 go 1.26.5
